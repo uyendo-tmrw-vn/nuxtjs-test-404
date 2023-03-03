@@ -21,10 +21,14 @@ defineProps({
 });
 
 const handleError = () => clearError({ redirect: "/" });
+const router = useRouter()
+
 
 const error1 = useError()
 console.log(error1.value.statusCode,error1.value.message);
-
+if(error1.value.statusCode == 404){
+  router.replace('/error404')
+}
 
 </script>
 
