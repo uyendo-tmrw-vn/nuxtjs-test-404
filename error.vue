@@ -21,4 +21,9 @@ defineProps({
 });
 
 const handleError = () => clearError({ redirect: "/" });
+
+const error1 = useError()
+console.log(error1.value.statusCode,error1.value.message);
+
+
 </script>
