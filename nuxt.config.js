@@ -41,27 +41,22 @@ export default defineNuxtConfig({
 		baseUrl: process.env.BASE_URL || 'http://localhost:3000',
 		imgBaseUrl: process.env.IMG_BASE_URL || ''
 	},
-	"target": "static",
-	// "nitro": {
-	// 	"output": {
-	// 		dir: 'output',
-	// 		serverDir: 'output/server',
-	// 		publicDir: 'output/public'
-	// 	}
-	// },
+	// "target": "static",
+	target: 'server',
+	"nitro": {
+		"output": {
+			dir: 'output',
+			serverDir: 'output/server',
+			publicDir: 'output/public'
+		}
+	},
 	generate: {
-    fallback: true,
+    fallback: '404.html',
   },
-	nitro: {
-    preset: 'vercel-edge',
-  },
-	// router: {
-  //   extendRoutes(routes, resolve) {
-  //     routes.push({
-  //       name: 'custom',
-  //       path: '*',
-  //       component: resolve(__dirname, 'pages/404.vue')
-  //     })
-  //   }
-  // }
+	router: {
+    middleware: 'stats',
+    extendRoutes(routes, resolve) {
+			console.log('uyene:',{routes});
+    }
+  }
 })

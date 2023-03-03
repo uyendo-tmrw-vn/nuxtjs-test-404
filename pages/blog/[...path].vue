@@ -138,7 +138,6 @@ const config = useRuntimeConfig();
 const route = useRoute();
 const blogDetail = ref({});
 const blogList = ref([]);
-console.log(55, route.params.path);
 // const path = route.params.path
 
 // console.log({ path });
@@ -155,7 +154,6 @@ const list = fetch(
 )
   .then(response => response.json())
   .then(json => {
-    console.log(66,json.data);
     json.data.forEach(element => {
       element.path = element.path;
     });
