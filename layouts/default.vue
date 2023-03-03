@@ -30,24 +30,6 @@
         <slot />
       </div>
     </div>
-
-    <template #error="{ error }">
-      <div>
-        <p>
-          Oh no, something broke when loading the lesson!
-          <code>{{ error }}</code>
-        </p>
-        <p>
-          <button
-            class="hover:cursor-pointer"
-            @click="clearError(error)"
-          >
-            Go to the first lesson
-          </button>
-        </p>
-      </div>
-    </template>
-
   </NuxtErrorBoundary>
 
 </template>
