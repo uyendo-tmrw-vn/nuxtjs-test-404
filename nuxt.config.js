@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss'
   ],
-  target: 'server',
+  target: 'static',
 	"nitro": {
 		"output": {
 			dir: 'output',
