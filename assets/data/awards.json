@@ -1,0 +1,481 @@
+[
+  {
+    "active": false,
+    "category": "Agency of The Year Awards",
+    "slug": "agency-of-the-year-awards",
+    "awards": [
+      "Boutique Agency of the Year 2022 (Finalist)",
+      "Creative Agency of the Year 2022 (Finalist)",
+      "Full Service Agency of the Year 2022 (Finalist)",
+      "Independent Agency of the Year 2022 (Finalist)",
+      "Integrated Marketing Agency of the Year 2022 (Finalist)",
+      "Lead Generation Agency of the Year 2022 (Finalist)",
+      "Creative Agency of the Year 2020 (Local Hero)",
+      "Experiential Marketing Agency of the Year 2020 (Finalist)",
+      "Full Service Agency of the Year 2020 (Finalist)",
+      "Integrated Marketing Agency of the Year 2020 (Finalist)"
+    ]
+  },
+  {
+    "active": false,
+    "category": "Creative Circle Awards",
+    "slug": "creative-circle-awards",
+    "awardsWithSubCat": [
+      {
+        "active": false,
+        "category": "BMW Circular Red Packets (2022)",
+        "awards": [
+          "Packaging Design (Finalist)"
+        ]
+      }
+    ]
+  },
+  {
+    "active": false,
+    "category": "MARKies Award",
+    "slug": "markies-award",
+    "awardsWithSubCat": [
+      {
+        "active": false,
+        "category": "Samsung #BespokeDesignedByYou (2022)",
+        "awards": [
+          "Most Creative – Customer Engagement (Bronze)",
+          "Most Creative – Launch/Re-Launch (Silver)",
+          "Most Effective Use – Content (Gold)",
+          "Most Effective Use – Customer Acquisition (Finalist)",
+          "Most Effective Use – Launch/Re-Launch (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "OSIM #uDreamOutOfThisWorld (2022)",
+        "awards": [
+          "Most Effective Use – Customer Acquisition (Silver)",
+          "Most Effective Use – Digital (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "OSIM Apart, but still a part (2022)",
+        "awards": [
+          "Most Creative – Video (Finalist)",
+          "Most Effective Use – Video (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW Circular Red Packets (2022)",
+        "awards": [
+          "Most Creative – Specific Audience (Finalist)",
+          "Most Effective Use – Specific Audience (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Gatsby #10SecSwag (2021)",
+        "awards": [
+          "Most Creative – Influencers/KOLs (Finalist)",
+          "Most Effective Use – Content (Silver)",
+          "Most Effective Use – Launch/Re-Launch (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "SRA eGSS Shop. Win. Experience (2021)",
+        "awards": ["Most Effective Use – Events (Silver)"]
+      },
+      {
+        "active": false,
+        "category": "TMRW (2021)",
+        "awards": ["Best Art Director (Silver)"]
+      },
+      {
+        "active": false,
+        "category": "Samsung Singapore Better Than The Sun (2020)",
+        "awards": [
+          "Most Effective Use – Social Media (Finalist)",
+          "Most Effective Use – TV/Video Advertising (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW X2 Hunt (2019)",
+        "awards": [
+          "Most Creative – Experiential (Finalist)",
+          "Most Creative – Specific Audience (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "AIA Vitality Weekly Challenge (2018)",
+        "awards": [
+          "Best Idea – Apps/Mobile (Silver)",
+          "Best Idea – Digital (Gold)",
+          "Best Idea – Experiential (Gold)",
+          "Best Idea – Loyalty & CRM (Gold)",
+          "Best Use of Apps/Mobile (Gold)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Fresh Glow Challenge (2018)",
+        "awards": [
+          "Best Idea – Female Audience (Bronze)",
+          "Best Use of Content (Finalist)"
+        ]
+      }
+    ]
+  },
+  {
+    "active": false,
+    "category": "Marketing Event Awards",
+    "slug": "marketing-event-awards",
+    "awardsWithSubCat": [
+      {
+        "active": false,
+        "category": "SRA eGSS Shop. Win. Experience (2021)",
+        "awards": [
+          "Best Innovative Transition – Physical to Virtual (Silver)",
+          "Best Digital Integration (Bronze)",
+          "Best Event Branding (Bronze)",
+          "Best Event Response to COVID-19 (Finalist)",
+          "Best Integrated Event Campaign (Finalist)",
+          "Best Virtual Event (B2C) (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "TOYBOX Powered by Hasbro (2019)",
+        "awards": [
+          "Best Event Branding (Gold)",
+          "Best Press/Media Event (Bronze)",
+          "Best Consumer Event: Arts & Entertainment (Finalist)",
+          "Best Consumer Event: Launch/Re-Launch (Finalist)",
+          "Best Event Ambience (Finalist)",
+          "Best Event Production (Finalist)",
+          "Best Use of a Venue (Finalist)",
+          "Best Use of Games/Contests (Finalist)",
+          "Best Use of Multi-Channel Marketing (Finalist)",
+          "Best Venue Experience (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "HERA #OurBlackSecret (2019)",
+        "awards": [
+          "Best Event for a Targeted Community (Silver)",
+          "Best Event Branding (Finalist)",
+          "Best Consumer Event: Launch/Re-Launch (Finalist)",
+          "Best Retail/Shopper Event (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW World (2019)",
+        "awards": [
+          "Best Experiential Marketing (Silver)",
+          "Best Event for a Targeted Community (Finalist)",
+          "Best Immersive Experience (Finalist)",
+          "Best Use of a Venue (Finalist)",
+          "Best Use of Multi-Channel Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW X2 Hunt (2019)",
+        "awards": [
+          "Best Sponsorship Activation (Silver)",
+          "Best Digital Integration (Finalist)",
+          "Best Event for a Targeted Community (Finalist)",
+          "Best Experiential Marketing (Finalist)",
+          "Best Use of Games/Contests (Finalist)",
+          "Best Use of Multi-Channel Marketing (Finalist)"
+        ]
+      }
+    ]
+  },
+  {
+    "active": false,
+    "category": "Marketing Excellence Awards",
+    "slug": "marketing-excellence-awards",
+    "awardsWithSubCat": [
+      {
+        "active": false,
+        "category": "Performance Motors BMW Autoverse (2022)",
+        "awards": [
+          "Excellence in Advertising (Bronze)",
+          "Excellence in Experiential Marketing (Finalist)",
+          "Excellence in Interactive Marketing/AR & VR (Finalist)",
+          "Excellence in Mobile Marketing (Finalist)",
+          "Excellence in Pivot Marketing (Silver)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Samsung Singapore #BespokeDesignedByYou (2022)",
+        "awards": [
+          "Excellence in Advertising (Bronze)",
+          "Excellence in Brand Awareness (Finalist)",
+          "Excellence in Experiential Marketing (Finalist)",
+          "Excellence in Gaming (Finalist)",
+          "Excellence in Retail/Shopper Marketing (Gold)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "OSIM Singapore Apart, But Still A Part (2022)",
+        "awards": [
+          "Excellence in TV/Video Advertising (Bronze)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "OSIM Singapore #uDreamOutOfThisWorld (2022)",
+        "awards": [
+          "Excellence in Retail/Shopper Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "SRA eGSS Shop. Win. Experience (2021)",
+        "awards": [
+          "Excellence in Retail/Shopper Marketing (Gold)",
+          "Excellence in Integrated Marketing (Silver)",
+          "Excellence in Communications/Public Relations (Finalist)",
+          "Excellence in eCommerce Marketing (Finalist)",
+          "Excellence in Event Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Gatsby #10SecSwag (2021)",
+        "awards": ["Excellence in Content Marketing (Finalist)"]
+      },
+      {
+        "active": false,
+        "category": "Hera #OurBlackSecret (2019)",
+        "awards": ["Excellence in Retail/Shopper Marketing (Gold)"]
+      },
+      {
+        "active": false,
+        "category": "Samsung Asia Better Than The Sun (2019)",
+        "awards": [
+          "Excellence in Performance Marketing (Bronze)",
+          "Excellence in Gaming (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "TOYBOX Powered by Hasbro (2019)",
+        "awards": [
+          "Excellence in Gaming (Gold)",
+          "Excellence in Communications/Public Relations (Finalist)",
+          "Excellence in Integrated Marketing (Finalist)",
+          "Excellence in Event Marketing (Finalist)",
+          "Excellence in Experiential Marketing (Finalist)",
+          "Excellence in Performance Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW World (2019)",
+        "awards": [
+          "Excellence in Customer Engagement (Finalist)",
+          "Excellence in Experiential Marketing (Finalist)",
+          "Excellence in Integrated Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "INSEAD In The Know (2019)",
+        "awards": [
+          "Excellence in Digital Marketing (Finalist)",
+          "Excellence in Marketing Innovation (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "AIA Vitality Weekly Challenge (2018)",
+        "awards": [
+          "Excellence in Brand Awareness (Finalist)",
+          "Excellence in Customer Engagement (Finalist)",
+          "Excellence in Direct Marketing (Finalist)",
+          "Excellence in Experiential Marketing (Finalist)",
+          "Excellence in Integrated Marketing (Consumer) (Finalist)",
+          "Excellence in Loyalty Marketing (Finalist)",
+          "Excellence in Marketing Communications/Public Relations (Finalist)",
+          "Excellence in Mobile Marketing (Finalist)",
+          "Excellence in Performance Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW X2 Hunt (2018)",
+        "awards": ["Excellence in Marketing to a Male Audience (Gold)"]
+      },
+      {
+        "active": false,
+        "category": "Pizza Huat Blossom (2018)",
+        "awards": ["Excellence in Print Advertising (Finalist)"]
+      },
+      {
+        "active": false,
+        "category": "Dunkin’ Donuts Deluxe (2018)",
+        "awards": [
+          "Excellence in Advertising (Finalist)",
+          "Excellence in Brand Strategy (Finalist)",
+          "Excellence in Marketing Communications/Public Relations (Finalist)",
+          "Excellence in Retail/Shopping Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Fresh Glow Challenge (2017)",
+        "awards": [
+          "Excellence in Direct Marketing (Gold)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Samsung Fashion Steps Out (2016)",
+        "awards": [
+          "Excellence in Marketing Communication/Public Relations (Silver)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Shiseido White Lucent Launch (2016)",
+        "awards": [
+          "Excellence in Marketing Communication/Public Relations (Finalist)"
+        ]
+      }
+    ]
+  },
+  {
+    "active": false,
+    "category": "Marketing Talent Awards",
+    "slug": "marketing-talent-awards",
+    "awards": [
+      "Creative Agency Team of the Year (Gold)",
+      "Rising Star of the Year: Creative Agency (Finalist)",
+      "Rising Star of the Year: Independent Agency (Finalist)",
+      "Digital Person/Team of the Year (Finalist)",
+      "Creative Agency Head of the Year (Finalist)",
+      "Independent Agency Head of the Year (Finalist)"
+    ]
+  },
+  {
+    "active": false,
+    "category": "The Loyalty & Engagement Awards",
+    "slug": "the-loyalty-and-engagement-awards",
+    "awardsWithSubCat": [
+      {
+        "active": false,
+        "category": "Performance Motors BMW Autoverse (2022)",
+        "awards": [
+          "Best Use of Experiential/Live Marketing (Bronze)",
+          "Best Use of Direct Marketing (Finalist)",
+          "Best Use of Mobile (Finalist)",
+          "Best Use of Technology (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Samsung Singapore #BespokeDesignedByYou (2022)",
+        "awards": [
+          "Best Use of Rewards & Incentives (Finalist)",
+          "Best Engagement Strategy – B2C (Finalist)",
+          "Best Engagement Strategy – Specific Audience (Finalist)",
+          "Best Use of Contests/Promotions (Finalist)",
+          "Best Use of Content Marketing (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "OSIM Singapore #uDreamOutOfThisWorld (2022)",
+        "awards": [
+          "Best Engagement Strategy – B2C (Finalist)",
+          "Best Use of Influencers (Gold)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "SRA eGSS Shop. Win. Experience (2021)",
+        "awards": ["Best Engagement Strategy – B2C (Finalist)"]
+      },
+      {
+        "active": false,
+        "category": "Gatsby #10SecSwag (2021)",
+        "awards": [
+          "Best Engagement Strategy – Specific Audience (Finalist)",
+          "Best Use of Content Marketing (Finalist)",
+          "Best Use of Social Media (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "OSIM Level Up Gaming Chair (2021)",
+        "awards": ["Best Engagement Strategy – Specific Audience (Finalist)"]
+      },
+      {
+        "active": false,
+        "category": "AIA Altitude Platinum One Night Only (2020)",
+        "awards": [
+          "Best Engagement Strategy – Specific Audience (Finalist)",
+          "Best use of Direct Marketing (Finalist)",
+          "Best use of Experiential (Finalist)",
+          "Best use of Relationship Marketing - B2C (Bronze)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "INSEAD In The Know (2020)",
+        "awards": [
+          "Best Engagement Strategy – B2C (Finalist)",
+          "Best Engagement Strategy – Specific Audience (Bronze)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Hera #OurBlackSecret (2020)",
+        "awards": ["Best Engagement Strategy – Specific Audience (Silver)"]
+      },
+      {
+        "active": false,
+        "category": "Samsung Singapore Better Than The Sun (2020)",
+        "awards": ["Best Use of Contests/Promotions (Bronze)"]
+      },
+      {
+        "active": false,
+        "category": "BMW X2 Hunt (2019)",
+        "awards": [
+          "Best Use of Contests/Promotions (Sliver)",
+          "Best Use of Experiential/Live Marketing (Bronze)",
+          "Best Engagement Strategy – Specific Audience (Finalist)",
+          "Best Use of Gamification (Finalist)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "BMW World (2019)",
+        "awards": ["Best Use of Experiential/Live Marketing (Finalist)"]
+      },
+      {
+        "active": false,
+        "category": "AIA Vitality Weekly Challenge (2018)",
+        "awards": [
+          "Best Use of Rewards & Incentives (Silver)",
+          "Loyalty Programme of the Year (Bronze)"
+        ]
+      },
+      {
+        "active": false,
+        "category": "Fresh Glow Challenge (2018)",
+        "awards": [
+          "Best Engagement Strategy for a Female Audience (Silver)",
+          "Best Use of Brand Advocacy/Influencers (Finalist)"
+        ]
+      }
+    ]
+  }
+]

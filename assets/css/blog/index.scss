@@ -1,0 +1,46 @@
+@import './some-weird-ways-to-get-ideas';
+@import './how-to-achieve-work-life-balance-in-the-ad-industry';
+@import './why-i-got-into-advertising';
+@import './post-5';
+@import './post-6';
+
+
+.post-template{
+  h3{
+    @apply font-bold uppercase text-tmrw-red mb-3
+  }
+  p{
+    @apply font-normal tracking-normal text-tmrw-dark-grey mb-5
+  }
+  img{
+    @apply mb-5
+  }
+}
+.blog-spacing{
+  @apply flex flex-col lg:pl-36;
+  h3{
+    @apply font-bold uppercase text-tmrw-red mb-3
+  }
+  p{
+    @apply font-normal tracking-normal text-tmrw-dark-grey mb-5
+  }
+  img{
+    @apply mb-5
+  }
+  .post5-line-black{
+    @apply my-4 bg-black h-[1px] w-[50px] inline-block
+  }
+  .post5-link-color{
+    @apply underline text-[#2b6dad]
+  }
+}
+
+.how-to-achieve{
+  @apply flex flex-col lg:pl-36;
+  &__title{
+    @apply font-bold uppercase text-tmrw-red mb-3;
+  }
+  &__des{
+    @apply font-normal tracking-normal text-tmrw-dark-grey mb-[1rem];
+  }
+}

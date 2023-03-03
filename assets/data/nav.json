@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/works/",
+    "name": "Portfolio"
+  },
+  {
+    "path": "/awards/",
+    "name": "Awards"
+  },
+  {
+    "path": "/blog/",
+    "name": "Blog"
+  },
+  {
+    "path": "/news/",
+    "name": "News"
+  },
+  {
+    "path": "/contact/",
+    "name": "Contact Us"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/blog/why-i-got-into-advertising/",
+    "title": "WHY I GOT INTO ADVERTISING",
+    "thumb": "thumb-blog-kanesh.jpg",
+    "author": "Kanesh Pillai",
+    "description": "",
+    "img": "tmrw-works-v2-blog-kanesh-thumb.jpg",
+    "imgPos": "35% 50%"
+  },
+  {
+    "path": "/blog/how-to-achieve-work-life-balance-in-the-ad-industry/",
+    "title": "HOW TO ACHIEVE WORK-LIFE BALANCE IN THE AD INDUSTRY ",
+    "thumb": "thumb-blog-rupen.jpg",
+    "author": "Rupen David Mannar",
+    "description": "",
+    "img": "tmrw-works-v2-blog-rupen-thumb.jpg",
+    "imgPos": "50% 50%"
+  },
+  {
+    "path": "/blog/5-artists-that-inspires-creatives/",
+    "title": "5 Artists That Inspire Creatives",
+    "thumb": "thumb-blog-vondra.jpg",
+    "author": "Vondra Tay",
+    "description": "",
+    "img": "tmrw-works-v2-blog-vondra-thumb.jpg",
+    "imgPos": "35% 50%"
+  },
+  {
+    "path": "/blog/some-weird-ways-to-get-ideas/",
+    "title": "Some Weird Ways To Get Ideas",
+    "thumb": "thumb-blog-joyce.jpg",
+    "author": "Joyce Ng",
+    "description": "",
+    "img": "tmrw-works-v2-blog-joyce-thumb.jpg",
+    "imgPos": "50% 50%"
+  }
+]

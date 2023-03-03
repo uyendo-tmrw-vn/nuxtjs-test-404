@@ -1,0 +1,9 @@
+.how-to-achieve{
+  @apply flex flex-col lg:pl-36;
+  &__title{
+    @apply font-bold uppercase text-tmrw-red mb-3;
+  }
+  &__des{
+    @apply font-normal tracking-normal text-tmrw-dark-grey mb-[1rem];
+  }
+}
