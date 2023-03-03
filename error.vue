@@ -26,9 +26,16 @@ const router = useRouter()
 
 const error1 = useError()
 console.log(error1.value.statusCode,error1.value.message);
-if(error1.value.statusCode == 404){
-  router.replace('/error404')
-}
+if (process.server &&error1.value.statusCode == 404) {
+        const nuxtApp = useNuxtApp();
+        const error = new Error();
+        error.statusCode = 404;
+      //  nuxtApp.ssrContext.error = error;
+       nuxtApp.ssrContext.nuxt.error = error;
+    }
+// if(error1.value.statusCode == 404){
+//   router.replace('/error404')
+// }
 
 </script>
 
