@@ -2,9 +2,6 @@
 import { defineNuxtConfig } from 'nuxt';
 
 export default defineNuxtConfig({
-	router: {
-		mode: 'hash'
-  },
 	ssr: true,
 	build: {
 		postcss: {
@@ -52,6 +49,9 @@ export default defineNuxtConfig({
 			publicDir: 'output/public'
 		}
 	},
+	generate: {
+    fallback: '404.html',
+  },
 	// router: {
   //   extendRoutes(routes, resolve) {
   //     routes.push({

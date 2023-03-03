@@ -13,11 +13,11 @@ export default <RouterConfig> {
       path: '/news',
       component: () => import('~/pages/news.vue')
     },
-    {
-      name: '404',
-      path: '*',
-      component: () => import('~/pages/404.vue')
-    },
-    // { path: '*', beforeEnter: (to, from, next) => { next('/404') } },
+    // {
+    //   name: '404',
+    //   path: '*',
+    //   component: () => import('~/404.vue')
+    // },
+    { path: '*', beforeEnter: (to, from, next) => { next('/404') } },
   ],
 }
