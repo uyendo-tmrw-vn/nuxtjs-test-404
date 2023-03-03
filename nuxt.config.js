@@ -18,5 +18,9 @@ export default defineNuxtConfig({
   },
   generate: {
     fallback: true
-  }
+  },
+  router: {
+		mode: 'hash'
+  },
+	ssr: true,
 })

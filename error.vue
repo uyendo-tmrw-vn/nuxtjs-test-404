@@ -27,3 +27,18 @@ console.log(error1.value.statusCode,error1.value.message);
 
 
 </script>
+
+
+<script>
+export default{
+  setup() {
+    if (process.server) {
+        const nuxtApp = useNuxtApp();
+        const error = new Error();
+        error.statusCode = 404;
+      //  nuxtApp.ssrContext.error = error;
+       nuxtApp.ssrContext.nuxt.error = error;
+    }
+},
+}
+</script>
