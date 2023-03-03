@@ -5,7 +5,11 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "clean-nuxt": "rmdir /s /q .nuxt",
+    "clean-nm": "rmdir /s /q node_modules",
+    "clean-server": "rmdir /s /q server",
+    "clean-dist": "rmdir /s /q dist"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^5.3.5",
