@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss'
   ],
-  "target": "server",
+  target: 'server',
 	"nitro": {
 		"output": {
 			dir: 'output',
@@ -14,6 +14,6 @@ export default defineNuxtConfig({
 		}
 	},
   generate:{
-    fallback:'error404.html'
+    fallback: true
   }
 })
