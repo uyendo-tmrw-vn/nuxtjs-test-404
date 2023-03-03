@@ -42,13 +42,13 @@ export default defineNuxtConfig({
 		imgBaseUrl: process.env.IMG_BASE_URL || ''
 	},
 	"target": "static",
-	"nitro": {
-		"output": {
-			dir: 'output',
-			serverDir: 'output/server',
-			publicDir: 'output/public'
-		}
-	},
+	// "nitro": {
+	// 	"output": {
+	// 		dir: 'output',
+	// 		serverDir: 'output/server',
+	// 		publicDir: 'output/public'
+	// 	}
+	// },
 	generate: {
     fallback: true,
   },
