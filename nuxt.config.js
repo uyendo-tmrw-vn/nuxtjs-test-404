@@ -52,6 +52,9 @@ export default defineNuxtConfig({
 	generate: {
     fallback: true,
   },
+	nitro: {
+    preset: 'vercel-edge',
+  },
 	// router: {
   //   extendRoutes(routes, resolve) {
   //     routes.push({
