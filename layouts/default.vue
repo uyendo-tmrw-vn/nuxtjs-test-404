@@ -1,6 +1,6 @@
 <template>
   <NuxtErrorBoundary>
-    <div>
+    <div class="min-h-screen">
       <header class="shadow-sm bg-white">
         <nav class="container mx-auto p-4 flex justify-between">
           <NuxtLink
@@ -9,13 +9,13 @@
           >Nuxt Dojo</NuxtLink>
           <ul class="flex gap-4">
             <li>
-              <NuxtLink to="/asdfasd">404</NuxtLink>
+              <NuxtLink class="text-[#000]" to="/asdfasd">404</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/">Home</NuxtLink>
+              <NuxtLink class="text-[#000]" to="/">Home</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/about">About</NuxtLink>
+              <NuxtLink class="text-[#000]" to="/about">About</NuxtLink>
             </li>
             <li>
               <NuxtLink
@@ -26,7 +26,7 @@
           </ul>
         </nav>
       </header>
-      <div class="container mx-auto p-4">
+      <div class="container mx-auto p-4 text-[#000] ">
         <slot />
       </div>
     </div>

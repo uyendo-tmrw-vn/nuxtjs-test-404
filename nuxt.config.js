@@ -1,19 +1,22 @@
-import { defineNuxtConfig } from 'nuxt';
+import {
+  defineNuxtConfig
+} from 'nuxt';
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   modules: [
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxt/ui'
   ],
   target: 'static',
-	"nitro": {
-		"output": {
-			dir: 'output',
-			serverDir: 'output/server',
-			publicDir: 'output/public'
-		}
-	},
-  generate:{
+  "nitro": {
+    "output": {
+      dir: 'output',
+      serverDir: 'output/server',
+      publicDir: 'output/public'
+    }
+  },
+  generate: {
     fallback: true
   }
 })
