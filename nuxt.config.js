@@ -9,13 +9,13 @@ export default defineNuxtConfig({
     '@nuxt/ui'
   ],
   target: 'static',
-  "nitro": {
-    "output": {
-      dir: 'output',
-      serverDir: 'output/server',
-      publicDir: 'output/public'
-    }
-  },
+  // "nitro": {
+  //   "output": {
+  //     dir: 'output',
+  //     serverDir: 'output/server',
+  //     publicDir: 'output/public'
+  //   }
+  // },
   generate: {
     fallback: true
   },
