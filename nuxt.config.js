@@ -22,5 +22,9 @@ export default defineNuxtConfig({
   router: {
 		mode: 'hash'
   },
-	ssr: 'universal',
+	ssr: true,
+	// swr : true,
+  routeRules: {
+    '/error404': { redirect: { to: '/error404', statusCode: 404 } }
+  }
 })
