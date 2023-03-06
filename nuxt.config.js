@@ -22,5 +22,5 @@ export default defineNuxtConfig({
   router: {
 		mode: 'hash'
   },
-	ssr: true,
+	ssr: 'universal',
 })
